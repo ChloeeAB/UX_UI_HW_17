@@ -1,0 +1,29 @@
+.inline-block {
+   vertical-align: text-top;
+   display:inline-block;
+     
+  }
+ .nav{
+   width:73%;
+   padding:1%;
+ }
+
+ ul{
+   width:50%;
+   margin-left:auto;
+ }
+
+ img{
+   text-align: center;
+
+ }
+ .heroIMG {
+   height: 600px;
+
+
+ }
+ .content{
+   font: 40px Thabit; 
+   text-align: right;
+   background-color:#FFE4CC;
+ }
